@@ -10,8 +10,8 @@
 
 📒 **주요 업무** 
 
-- Java를 사용하여 DB의 기본인 CRUD를 익혔다.
-- 학생의 이름, 학번, 성적 평균을 기준으로 내림차 순, 오름차 순 정렬을 하였다.
+- Java를 사용하여 DB의 기본인 CRUD 익히기
+- 학생의 이름, 학번, 성적 평균을 기준으로 내림차 순, 오름차 순 정렬 적용
 
 🌱 **스킬 및 사용 툴**
 
@@ -23,25 +23,22 @@
 
 ### 학생 정보 출력
 
-
-
+![image](https://user-images.githubusercontent.com/80373743/146633404-5ab70386-fdef-4412-9a51-5816e952ea5c.png)
 
 ### 학생 정보 입력
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b98a237-679a-4a2b-b224-a460c9381322/Untitled.png)
+![image](https://user-images.githubusercontent.com/80373743/146633420-e4a5bf9a-6c7d-4a02-a1df-38af8b049d53.png)
 
 ### 학생 정보 삭제
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c934c66b-65b0-446a-bcfb-3dab99903805/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/80373743/146633430-8ea671ea-4d49-4aba-825e-9d7cab88d0e3.png)
 ### 학생 정보 검색
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/065ef5e9-39ca-4b17-a23c-f3bcd4b478cf/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/80373743/146633519-ac3bb06e-edcb-485e-b2fe-7ff7322d0c5d.png)
 ### 학생 정보 수정
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4dd79ae-ae3f-45cd-b49e-1abebd078c6f/Untitled.png)
+![image](https://user-images.githubusercontent.com/80373743/146633522-c6f05355-372c-47d5-a67b-858532f48546.png)
 
 ### 학생 정보 정렬
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dffd635-b53a-48ec-9054-7ba54b194426/Untitled.png)
+![image](https://user-images.githubusercontent.com/80373743/146633527-43fbd9c4-80f1-49b4-be4e-d83bdf263a1b.png)
